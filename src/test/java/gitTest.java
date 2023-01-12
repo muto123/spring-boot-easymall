@@ -6,6 +6,7 @@ public class gitTest {
     public void test() {
         System.out.println("测试gitIdea");
         System.out.println("测试不冲突合并");
+        System.out.println("hot-fix test");
     }
 
 }
