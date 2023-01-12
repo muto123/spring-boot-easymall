@@ -7,6 +7,7 @@ public class gitTest {
         System.out.println("测试gitIdea");
         System.out.println("测试不冲突合并");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 
 }
